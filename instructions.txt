@@ -1,0 +1,7 @@
+Instructions:
+
+Left arrow key: rotate counterclockwise
+Right arrow key: rotate clockwise
+Up arrow key: accelerate
+Spacebar key: shoot
+B key: throw bomb
